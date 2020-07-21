@@ -1,6 +1,6 @@
 # knights-console-game
 
-###Simple console app
+### Simple console app
 
 6 Knights stand in a circle
 Each knight has 100 health points
